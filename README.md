@@ -3,6 +3,13 @@
 <!--
 **CatarinaCandido/CatarinaCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+<h3>Hello Friend!</h3>
+
+I'm a junior fullstack developer, with eager to learn more.  
+Here you can find projects made by me in my spare time.
+
+I hope you like it!
+
 
 🎓 <Academia de Código_>; <br />
 📍 From Portugal 🇵🇹; <br />
