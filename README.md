@@ -14,7 +14,7 @@ You can download my CV <a url>
 <hr>
   
   <a target="_blank" href="https://linkedin.com/in/catarina-cândido-81b436200/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color="white"" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="backgroundcolor=white" />
 </a>
 
 ![CatarinaCandido GitHub Stats](https://github-readme-stats.vercel.app/api?username=catarinacandido&show_icons=true)
