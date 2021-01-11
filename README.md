@@ -15,6 +15,7 @@ I hope you like it!
 🤝 I'm currently looking for a new role; <br />
 🌱 I’m currently learning REACT <br />
 📫 How to reach me: cgmartinscandido@gmail.com <br />
+📣 Speak Portuguese and English
 
 <br />
 <hr>
