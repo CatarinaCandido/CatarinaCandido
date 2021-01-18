@@ -13,7 +13,7 @@ I hope you like it!
 🎓 <Academia de Código_>; <br />
 📍 From Portugal 🇵🇹; <br />
 🤝 I'm currently looking for a new role; <br />
-🌱 I’m currently learning REACT <br />
+🌱 I’m currently learning REACT and PHP <br />
 📫 How to reach me: cgmartinscandido@gmail.com <br />
 📣 Speak Portuguese and English
 
