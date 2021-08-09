@@ -10,10 +10,9 @@ Here you can find projects made by me in my spare time.
 I hope you like it!
 
 
-🎓 <Academia de Código_>; <br />
+🎓 <Master in computer science FCUL - Faculdade de Ciências de Lisboa>; <br />
 📍 From Portugal 🇵🇹; <br />
-🤝 I'm currently looking for a new role; <br />
-🌱 I’m currently learning REACT and PHP <br />
+🤝 I'm currently working as PHP developer; <br />
 📫 How to reach me: cgmartinscandido@gmail.com <br />
 📣 Speak Portuguese and English
 
